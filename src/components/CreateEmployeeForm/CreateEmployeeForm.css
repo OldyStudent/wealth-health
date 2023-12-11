@@ -1,0 +1,43 @@
+.CreateEmployeeForm {
+}
+
+.CreateEmployeeForm h2 {
+  margin-bottom: 2rem;
+}
+
+.CreateEmployeeForm label {
+  width: 100%;
+  display: block;
+}
+
+.CreateEmployeeForm__infos {
+  display: flex;
+}
+
+.CreateEmployeeForm__submit-container {
+  text-align: center;
+  margin-top: 3rem;
+}
+
+.CreateEmployeeForm__submit-container button {
+  border-radius: 2px;
+  color: #333333;
+  padding: 0.5rem 1rem;
+  width: 200px;
+  font-size: 16px;
+  transition: background-color 300ms ease-out;
+  cursor: pointer;
+  font-family: var(--default-font);
+  background: #ffc107;
+  border: 1px solid #ffc107;
+}
+
+.CreateEmployeeForm__submit-container button:hover {
+  background: none;
+  border: 1px solid #333333;
+  color: #333333;
+}
+
+.ant-select {
+  margin-bottom: 1rem;
+}

@@ -1,0 +1,29 @@
+.Employees {
+  max-width: 1440px;
+  min-height: 947px;
+  background: white;
+  width: 100%;
+  border-radius: 0.2rem;
+  overflow: hidden;
+  border: 1px solid white;
+  box-shadow: 0 0 4px 2px rgba(0, 0, 0, 0.4);
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.Employees__title {
+  margin-bottom: 4rem;
+}
+
+.Employees__search {
+  margin-bottom: 2rem;
+  text-align: right;
+}
+
+.Employees__navigation {
+  text-align: center;
+  padding: 1rem;
+  font-weight: bold;
+}
