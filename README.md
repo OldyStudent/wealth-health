@@ -2,7 +2,7 @@
 
 ## Résumé du projet
 
-Le projet Wealth Health vise à migrer l'application HRnet de l'utilisation de jQuery à React pour améliorer la performance et la stabilité. Les principales tâches incluent la conversion de l'application principale et de certains plugins jQuery, avec des tests de performance et une documentation approfondie. Les technologies clés utilisées sont React, Redux Toolkit, et Ant Design.
+Le projet Wealth Health vise à migrer l'application HRnet de l'utilisation de jQuery à React pour améliorer la performance et la stabilité. Les principales tâches incluent la conversion de l'application principale et de certains plugins jQuery, avec des tests de performance. 
 
 ## Mise en Route
 
